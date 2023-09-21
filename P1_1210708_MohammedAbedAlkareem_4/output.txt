@@ -1,0 +1,4 @@
+operation 1. = 1564654654719
+operation 2. = 77
+operation 3. = 1564654654709
+operation 4. = -24071610071	Remainder  = 39
