@@ -1,6 +1,17 @@
-# Data-Structure-Project-I
-large integer calculator Using C
+<p align="center">
+    <h1 align="center">LARGE-INTEGER-CALCULATOR</h1>
+</p>
 
+<p align="center">
+    <em>large integer calculator Using C</em>
+</p>
+
+<p align="center">
+		<em>Developed with:</em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=black" alt="C">
+</p>
 
 # Summary
 This project is an application for	Linked	Lists,	in which you will implement	a	large	integer calculator. Performing	arithmetic on	very	large	 numbers (i.e.,	 numbers	 with	 a	 large	 number	 of	 digits)
